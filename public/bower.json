@@ -1,0 +1,21 @@
+{
+  "name": "notesApp",
+  "authors": [
+    "vinitlee <vinitlee@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "note-app-elements": "polymerlabs/note-app-elements",
+    "polymerfire": "firebase/polymerfire#^0.10.3"
+  }
+}
